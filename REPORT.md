@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Honedge
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: n/a
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: n/a 
 
 ###
